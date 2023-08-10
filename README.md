@@ -1,7 +1,7 @@
 # Alzahra University Workshop, Summer 2023
 This repository contains the contents of the "Python for Economics" workshop at the Faculty of Economics, Alzahra University. (Summer 2023)
 
-<img src = "https://github.com/saeed-saffari/Intro-Py_for_Econ-workshop_Alzahra_Sum2023/blob/main/Poster001.jpeg?raw=true" width="550" >
+<img src = "https://github.com/saeed-saffari/Intro_Py_for_Econ_workshop_Alzahra_Sum2023/blob/main/Poster001.jpeg?raw=true?raw=true" width="550" >
 
 ## The requirements and recommendations
 
