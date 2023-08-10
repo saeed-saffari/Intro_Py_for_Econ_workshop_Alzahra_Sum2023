@@ -2,7 +2,7 @@
 
 ## Workshop OUTLINES
 
-- [Introduction](https://github.com/saeed-saffari/)
+- [Introduction](https://github.com/saeed-saffari/Intro_Py_for_Econ_workshop_Alzahra_Sum2023/blob/main/Lectures/Py%20for%20Econ-Intro-Alzahra%20Workshop%202023.pdf)
 - Python Setup
 - [Object and Data Structure Basics](https://github.com/saeed-saffari/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/)
 
